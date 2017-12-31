@@ -80,11 +80,5 @@ public class BinarySearchTree
 		}
 	}
 	
-	public static void main(String args[])
-	{
-		BinarySearchTree b = new BinarySearchTree();
-		b.addNewNode(15);
-		b.addNewNode(14);
-		b.addNewNode(16);
-	}
+	
 }
